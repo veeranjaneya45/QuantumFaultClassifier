@@ -1,0 +1,9 @@
+fault_id,binary_pattern,meaning,type
+F0,000,No fault,constant
+F1,001,Sensor fault,balanced
+F2,010,Actuator fault,balanced
+F3,011,Sensor and actuator fault,balanced
+F4,100,Communication fault,balanced
+F5,101,Sensor and communication fault,balanced
+F6,110,Actuator and communication fault,balanced
+F7,111,All faults present,balanced
