@@ -1,6 +1,5 @@
+streamlit
 qiskit
 qiskit-aer
-streamlit
 pandas
 matplotlib
-numpy
